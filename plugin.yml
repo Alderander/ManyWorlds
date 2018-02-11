@@ -1,11 +1,13 @@
 main: aliuly\manyworlds\Main
-api: 3.0.0-ALPHA9
+api:
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
 load: POSTWORLD
 
 name: ManyWorlds
 description: Manage Multiple Worlds
-version: 2.1.0
-author: aliuly
+version: 2.1.1
+author: aliuly and dogeee
 
 commands:
   manyworlds:
